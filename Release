@@ -1,8 +1,8 @@
-Origin: dragonslayer4832's Repo
-Label: dragonslayer4832
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
-Codename: dragonslayer4832
-Architecture: iphoneos-arm
+Codename: ios
+Architectures: iphoneos-arm
 Components: main
-Description: Tweaks I find useful :) If you want something taken down, PM me on reddit: /u/dragonslayer4832
+Description: Reposi3 - a cydia repo template
